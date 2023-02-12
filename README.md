@@ -14,13 +14,14 @@ The following technologies and tools are used in this project:
 The data used in this project is obtained from Kaggle open-source data. The data includes information about products, shops and reviews. The data is cleaned and preprocessed before analysis.
 
 # Analysis 🔎
-Power BI https://icons8.com/icon/69674/power-bi
+Power BI
+
 The project uses data visualization techniques to provide insights into the fashion industry on Shopee. The following are some of the analyses performed in the project:
 - Most popular clothing categories
 - Best-selling products
 - Total Revenue
 
-Python (https://user-images.githubusercontent.com/124249298/218306636-1c9b0383-c4ee-4069-a807-1846ff5012df.png)
+Python
 
 The analysis will be based on the customer reviews available on the platform. The objective is to gain insights into the preferences and satisfaction of customers who have purchased Korean clothing from Shopee in the Philippines. The findings from this analysis will provide valuable information for fashion retailers and help them make data-driven decisions about their product offerings and customer engagement strategies.
 
