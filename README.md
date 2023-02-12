@@ -1,5 +1,6 @@
 # Analyze Trending Clothing Business Data on Shopee in the Philippines
 This project aims to analyze the trending clothing business data on Shopee in the Philippines using data analysis and visualization techniques. The goal is to provide insights into the fashion industry on Shopee and help businesses make informed decisions about market trends, competition, and growth opportunities.
+
 ![26c9324913c021677768c36975d635ef](https://user-images.githubusercontent.com/124249298/218305832-3894c307-81bd-470e-8f2b-31bd63875f28.png)
 
 # Technologies and Tools ⚙
@@ -20,6 +21,10 @@ The project uses data visualization techniques to provide insights into the fash
 - Most popular clothing categories
 - Best-selling products
 - Total Revenue
+
+![shopee](https://user-images.githubusercontent.com/124249298/218318135-c6901668-35bf-4f4b-b99a-70b99e188e70.png)
+
+![shopee1](https://user-images.githubusercontent.com/124249298/218318138-a108fa20-6cd4-4562-a7e4-792e1ed27f0f.png)
 
 Python
 
